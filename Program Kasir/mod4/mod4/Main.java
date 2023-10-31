@@ -1,5 +1,8 @@
 package mod4;
 import java.util.Scanner;
+/**
+ * @author Rayhan Rizky
+ */
 
 public class Main{
     static void ngulang(){

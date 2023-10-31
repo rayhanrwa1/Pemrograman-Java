@@ -1,11 +1,14 @@
 package Modul3Pratice;
 
-import java.util.Scanner;
 
+
+import java.util.Scanner;
+/**
+ * @author Rayhan Rizky
+ */
 public class Main {
 
     private double Value;
-
 
     public static void main(String[] args) {
 
