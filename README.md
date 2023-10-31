@@ -7,12 +7,13 @@ Terdapat 5 Program diantaranya :
 2. Program Deret.
 3. Program Kasir.
 4. Program Plant Zombie.
-5. Program Element .
+5. Program Element.
+6. Program IPv4ToBinner.
 
 Credit by : Rayhan Rizky Widi Ananta - Tugas Kuliah
 Tanggal Update :
 
-29/10/2023 "Dokumentasi Pemrograman Java"
+31/10/2023 "Dokumentasi Pemrograman Java"
 
 
 
